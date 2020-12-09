@@ -1,0 +1,14 @@
+    h1 {
+                color: brown;
+            }
+
+            * {
+                border: solid;
+            }
+
+       .Hellooo{
+           background-color: dodgerblue;
+
+           display:flex;
+        justify-content:space-between ;
+       }  
